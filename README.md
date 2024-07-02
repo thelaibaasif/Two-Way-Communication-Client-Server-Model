@@ -1,4 +1,5 @@
-# Two-Way Communication Client-Server Model
+# Two-Way Communication Client-Server Model-Computer Networks 
+
 
 ## Description
 This project implements a two-way communication client-server model in C. Upon establishing a connection, the server sends a greeting message, "Hi, you have connected to the server!" to the client. The client sends a string to the server, which then reverses the string and sends it back. The client displays the received reversed string.
